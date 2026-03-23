@@ -1,3 +1,6 @@
+Gabriel Roberto
+Thais Cristina
+
 <p1> PARTE 1 </p1>
 
 | # | Code Smell | Localização | Problema | Refatoração Proposta | Técnica |
