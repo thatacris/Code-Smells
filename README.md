@@ -1,7 +1,7 @@
 Gabriel Roberto
 <P>Thais Cristina</P>
 
-
+<p>
 <p1> PARTE 1 </p1>
 
 | # | Code Smell | Localização | Problema | Refatoração Proposta | Técnica |
@@ -13,7 +13,7 @@ Gabriel Roberto
 | 5 | Primitive Obsession | string[][] (livros, usuarios, emprestimos) | Uso de tipos primitivos para dados complexos | Criar classes (Livro, Usuario, Emprestimo) | Replace Primitive with Object |
 | 6 | Duplicate Code | loops de busca | Código repetido em vários pontos | Criar métodos reutilizáveis de busca | Extract Method |
 
-
+</p>
 <p1>Parte 2 — Refatorações </p1>
 
 <p4> 1. God Class → Extract Class </p4>
